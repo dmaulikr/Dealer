@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AFB6C08F-D346-490A-83F4-788F51D6C2A6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Dealer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CC8D7A255323FC7BD8FC721F4DD1364EED3F5549</key>
+		<string>https://github.com/mcclowes/Dealer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>1) Code/Dealer.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CC8D7A255323FC7BD8FC721F4DD1364EED3F5549</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mcclowes/Dealer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CC8D7A255323FC7BD8FC721F4DD1364EED3F5549</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CC8D7A255323FC7BD8FC721F4DD1364EED3F5549</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dealer</string>
+		</dict>
+	</array>
+</dict>
+</plist>
